@@ -12,12 +12,12 @@ Transfer Money: Users can transfer up to 50,000 at a time to other accounts.
 Check Balance: Displays the current balance in the account.
 Transaction History: Displays the history of all transactions made by the user.
 User-friendly Menu: Console-based menu system for easy navigation.
-====================================================
+
 
 Technologies Used
 Java: Core language for the implementation.
 Scanner Class: Used for user input handling.
-==================================================
+
 
 How to Run the Program
 Clone the repository:
@@ -39,7 +39,7 @@ Transfer Money
 Check Balance
 Transaction History
 Exit
-========================================================
+
 
 Limitations & Future Enhancements
 
